@@ -91,7 +91,7 @@ just remember that you can't purchase success!
 - [Intro CS ✅](#intro-cs)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
-  - [Core math](#core-math)
+  - [Core math ✅](#core-math)
   - [CS Tools](#cs-tools)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
@@ -108,14 +108,14 @@ just remember that you can't purchase success!
 
 ---
 
-## Prerequisites
+## Prerequisites ✅
 
 - [Core CS](#core-cs) assumes the student has already taken [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro CS
+## Intro CS ✅
 
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
@@ -158,7 +158,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
 [Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
 
-### Core math
+### Core math ✅
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
 **Topics covered**:
